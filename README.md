@@ -72,10 +72,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/kelo72/kelo72/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/kelo72/count.svg?"  />
 </div>
