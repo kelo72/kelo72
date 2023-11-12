@@ -9,7 +9,13 @@
 <h3 align="left">Estudiante de Ciencia de Datos e Inteligencia Artificial en ISPC</h3>
 
 ###
+<p>
+"Soy un estudiante comprometido y apasionado que actualmente cursa dos carreras de programación. Mi amor por la resolución de problemas me impulsa a buscar oportunidades de aprendizaje y crecimiento constantes. Disfruto explorar y aprender por mi cuenta, pero también valoro la colaboración y la ayuda de los demás para alcanzar mis metas.
 
+Una de las cosas que más me define es mi actitud positiva hacia los desafíos. Siempre estoy emocionado por la oportunidad de enfrentar nuevos problemas y aprender de ellos. Creo que cada desafío es una oportunidad para crecer y mejorar mis habilidades. Estoy dispuesto a trabajar duro para superar obstáculos y alcanzar mis metas en el campo de la programación.
+
+Mi pasión por la programación y mi mentalidad de aprendizaje constante me hacen un candidato ideal para proyectos y equipos que valoran la resolución de problemas, la adaptabilidad y la voluntad de aprender. Estoy emocionado por las futuras oportunidades que me permitan aplicar mis habilidades y continuar creciendo en este apasionante campo." </p>
+<hr/>
 <br clear="both">
 
 <div align="center">
@@ -18,7 +24,8 @@
 </div>
 
 ###
-
+<hr/>
+<h3>Tecnologias que uso:</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -60,10 +67,10 @@
 </div>
 
 ###
-
+<hr/>
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/eze-soria">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"/></a>
 </div>
 
 ###
